@@ -35,3 +35,40 @@ C:\Users\victo\source\repos\GTA5 RPF FiveM Convertor\bin\Debug\Microsoft.Windows
 C:\Users\victo\source\repos\GTA5 RPF FiveM Convertor\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
 C:\Users\victo\source\repos\GTA5 RPF FiveM Convertor\bin\Debug\Microsoft.WindowsAPICodePack.xml
 C:\Users\victo\source\repos\GTA5 RPF FiveM Convertor\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\GTA5Mods to FiveM Convertor.exe.config
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\GTA5Mods to FiveM Convertor.exe.manifest
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\GTA5Mods to FiveM Convertor.application
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\GTA5Mods to FiveM Convertor.exe
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\GTA5Mods to FiveM Convertor.pdb
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\AutoUpdater.NET.dll
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\nunit.framework.dll
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\SharpCompress.dll
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\System.Buffers.dll
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\System.Memory.dll
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\System.Numerics.Vectors.dll
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\AutoUpdater.NET.pdb
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\AutoUpdater.NET.xml
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\Microsoft.WindowsAPICodePack.xml
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\nunit.framework.pdb
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\nunit.framework.xml
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\System.Buffers.xml
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\System.Memory.xml
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\System.Numerics.Vectors.xml
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\[ Projekt ]\rpf2fivem-repository\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\[ Projekt ]\rpf2fivem-repository\obj\Debug\GTA5 RPF FiveM Convertor.csprojAssemblyReference.cache
+E:\[ Projekt ]\rpf2fivem-repository\obj\Debug\GTA5_RPF_FiveM_Convertor.Main.resources
+E:\[ Projekt ]\rpf2fivem-repository\obj\Debug\GTA5_RPF_FiveM_Convertor.Properties.Resources.resources
+E:\[ Projekt ]\rpf2fivem-repository\obj\Debug\GTA5 RPF FiveM Convertor.csproj.GenerateResource.cache
+E:\[ Projekt ]\rpf2fivem-repository\obj\Debug\GTA5 RPF FiveM Convertor.csproj.CoreCompileInputs.cache
+E:\[ Projekt ]\rpf2fivem-repository\obj\Debug\GTA5Mods to FiveM Convertor.TrustInfo.xml
+E:\[ Projekt ]\rpf2fivem-repository\obj\Debug\GTA5Mods to FiveM Convertor.exe.manifest
+E:\[ Projekt ]\rpf2fivem-repository\obj\Debug\GTA5Mods to FiveM Convertor.application
+E:\[ Projekt ]\rpf2fivem-repository\obj\Debug\GTA5 RPF FiveM Convertor.csproj.CopyComplete
+E:\[ Projekt ]\rpf2fivem-repository\obj\Debug\GTA5Mods to FiveM Convertor.exe
+E:\[ Projekt ]\rpf2fivem-repository\obj\Debug\GTA5Mods to FiveM Convertor.pdb

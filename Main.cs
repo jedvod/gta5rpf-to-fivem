@@ -728,7 +728,7 @@ namespace GTA5_RPF_FiveM_Convertor
 
         private bool checkGtaFolder()
         {
-            if (gtaFolder_tb.Text.Contains(@"\Grand Theft Auto V") && !gtaFolder_tb.Text.Contains(@"GTA5.exe"))
+            if (gtaFolder_tb.Text.Contains(@"\Grand Theft Auto V") || gtaFolder_tb.Text.Contains(@"\GTAV") && !gtaFolder_tb.Text.Contains(@"GTA5.exe"))
             {
                 return true;
             }
@@ -779,6 +779,11 @@ namespace GTA5_RPF_FiveM_Convertor
         private void button3_Click(object sender, EventArgs e)
         {
             
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
