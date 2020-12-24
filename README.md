@@ -5,6 +5,9 @@ PLEASE VIEW THIS FIRST: https://forum.cfx.re/t/gta5-mods-to-fivem-addon-converte
 <b>Info</b>\
 We've all been through this, you started working on your FiveM server and started adding vehicles, but, you got tired of switching back and forth between OpenIV and 100 notepads open. I made this tool for you.
 
+<b>Note</b>
+If the outputted folder is empty, and does not have the required files, it's incompatible and you'll have to find another vehicle.
+
 <b>System Requirements</b>
 - Microsoft .NET Framework 4.8
 https://dotnet.microsoft.com/download/dotnet-framework/net48
