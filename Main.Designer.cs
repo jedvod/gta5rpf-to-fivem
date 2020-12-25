@@ -35,6 +35,7 @@
             this.btnAddQueue = new System.Windows.Forms.Button();
             this.queueList = new System.Windows.Forms.ListBox();
             this.label8 = new System.Windows.Forms.Label();
+            this.gta5mods_tb = new GTA5_RPF_FiveM_Convertor.PlaceHolderTextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.gta5mods_status = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
@@ -63,7 +64,6 @@
             this.button1 = new System.Windows.Forms.Button();
             this.gtaFolder_tb = new System.Windows.Forms.TextBox();
             this.btnConvertFromFolder = new System.Windows.Forms.Button();
-            this.gta5mods_tb = new GTA5_RPF_FiveM_Convertor.PlaceHolderTextBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -125,6 +125,18 @@
             this.label8.Size = new System.Drawing.Size(48, 16);
             this.label8.TabIndex = 16;
             this.label8.Text = "Queue";
+            // 
+            // gta5mods_tb
+            // 
+            this.gta5mods_tb.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F);
+            this.gta5mods_tb.ForeColor = System.Drawing.Color.Gray;
+            this.gta5mods_tb.Location = new System.Drawing.Point(9, 39);
+            this.gta5mods_tb.Name = "gta5mods_tb";
+            this.gta5mods_tb.PlaceHolderText = "https://files.gta5-mods.com/uploads/XXXCARNAMEXXXX/XXXCARNAMEXXXX.zip";
+            this.gta5mods_tb.Size = new System.Drawing.Size(443, 22);
+            this.gta5mods_tb.TabIndex = 15;
+            this.gta5mods_tb.Text = "https://files.gta5-mods.com/uploads/XXXCARNAMEXXXX/XXXCARNAMEXXXX.zipp";
+            this.gta5mods_tb.TextChanged += new System.EventHandler(this.placeHolderTextBox1_TextChanged);
             // 
             // label6
             // 
@@ -201,11 +213,12 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Enabled = false;
-            this.label7.Location = new System.Drawing.Point(227, -2);
+            this.label7.Location = new System.Drawing.Point(196, -3);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(371, 16);
+            this.label7.Size = new System.Drawing.Size(407, 16);
             this.label7.TabIndex = 13;
-            this.label7.Text = "buildname beta_saturn8 | developed by: github.com/vscorpio";
+            this.label7.Text = "buildname epicgames_support | developed by: github.com/Avenze";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // groupBox3
             // 
@@ -389,18 +402,6 @@
             this.btnConvertFromFolder.Text = "Convert from folder";
             this.btnConvertFromFolder.UseVisualStyleBackColor = true;
             this.btnConvertFromFolder.Click += new System.EventHandler(this.button2_Click_1);
-            // 
-            // gta5mods_tb
-            // 
-            this.gta5mods_tb.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F);
-            this.gta5mods_tb.ForeColor = System.Drawing.Color.Gray;
-            this.gta5mods_tb.Location = new System.Drawing.Point(9, 39);
-            this.gta5mods_tb.Name = "gta5mods_tb";
-            this.gta5mods_tb.PlaceHolderText = "https://files.gta5-mods.com/uploads/XXXCARNAMEXXXX/XXXCARNAMEXXXX.zip";
-            this.gta5mods_tb.Size = new System.Drawing.Size(443, 22);
-            this.gta5mods_tb.TabIndex = 15;
-            this.gta5mods_tb.Text = "https://files.gta5-mods.com/uploads/XXXCARNAMEXXXX/XXXCARNAMEXXXX.zipp";
-            this.gta5mods_tb.TextChanged += new System.EventHandler(this.placeHolderTextBox1_TextChanged);
             // 
             // Main
             // 
