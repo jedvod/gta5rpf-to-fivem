@@ -104,7 +104,7 @@ namespace GTA5_RPF_FiveM_Convertor
         {
             try
             {
-                Directory.Delete("cache", true);
+                Directory.Delete("cache", false);
             }
             catch (Exception)
             {
@@ -230,8 +230,8 @@ namespace GTA5_RPF_FiveM_Convertor
             string[] txtFiles = Directory.GetFiles("cache", fileExtension, SearchOption.AllDirectories);
             foreach (var item in txtFiles)
             {
-                LogAppend("[DEL] Deleting " + resname + @"\" + item + " ...");
-                File.Delete(item);
+                //LogAppend("[DEL] Deleting " + resname + @"\" + item + " ...");
+                //File.Delete(item);
             }
         }
 
